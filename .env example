@@ -1,0 +1,8 @@
+PORT=3001
+DATABASE=chat
+HOST=localhost
+USER=root
+PASSWORD=
+PUBLIC_URL=http://localhost:3001
+JWT_SECRET=LLaveMaestra
+DB_URI = mongodb+srv://
